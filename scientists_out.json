@@ -1,0 +1,112 @@
+{
+  "schema":{
+    "fields":[
+      {
+        "name":"index",
+        "type":"integer"
+      },
+      {
+        "name":"Name",
+        "type":"string"
+      },
+      {
+        "name":"Born",
+        "type":"string"
+      },
+      {
+        "name":"Died",
+        "type":"string"
+      },
+      {
+        "name":"Age",
+        "type":"integer"
+      },
+      {
+        "name":"Occupation",
+        "type":"string"
+      },
+      {
+        "name":"born_dt",
+        "type":"datetime"
+      }
+    ],
+    "primaryKey":[
+      "index"
+    ],
+    "pandas_version":"1.4.0"
+  },
+  "data":[
+    {
+      "index":0,
+      "Name":"Rosaline Franklin",
+      "Born":"1920-07-25",
+      "Died":"1958-04-16",
+      "Age":37,
+      "Occupation":"Chemist",
+      "born_dt":"1920-07-25T00:00:00.000Z"
+    },
+    {
+      "index":1,
+      "Name":"William Gosset",
+      "Born":"1876-06-13",
+      "Died":"1937-10-16",
+      "Age":61,
+      "Occupation":"Statistician",
+      "born_dt":"1876-06-13T00:00:00.000Z"
+    },
+    {
+      "index":2,
+      "Name":"Florence Nightingale",
+      "Born":"1820-05-12",
+      "Died":"1910-08-13",
+      "Age":90,
+      "Occupation":"Nurse",
+      "born_dt":"1820-05-12T00:00:00.000Z"
+    },
+    {
+      "index":3,
+      "Name":"Marie Curie",
+      "Born":"1867-11-07",
+      "Died":"1934-07-04",
+      "Age":66,
+      "Occupation":"Chemist",
+      "born_dt":"1867-11-07T00:00:00.000Z"
+    },
+    {
+      "index":4,
+      "Name":"Rachel Carson",
+      "Born":"1907-05-27",
+      "Died":"1964-04-14",
+      "Age":56,
+      "Occupation":"Biologist",
+      "born_dt":"1907-05-27T00:00:00.000Z"
+    },
+    {
+      "index":5,
+      "Name":"John Snow",
+      "Born":"1813-03-15",
+      "Died":"1858-06-16",
+      "Age":45,
+      "Occupation":"Physician",
+      "born_dt":"1813-03-15T00:00:00.000Z"
+    },
+    {
+      "index":6,
+      "Name":"Alan Turing",
+      "Born":"1912-06-23",
+      "Died":"1954-06-07",
+      "Age":41,
+      "Occupation":"Computer Scientist",
+      "born_dt":"1912-06-23T00:00:00.000Z"
+    },
+    {
+      "index":7,
+      "Name":"Johann Gauss",
+      "Born":"1777-04-30",
+      "Died":"1855-02-23",
+      "Age":77,
+      "Occupation":"Mathematician",
+      "born_dt":"1777-04-30T00:00:00.000Z"
+    }
+  ]
+}
